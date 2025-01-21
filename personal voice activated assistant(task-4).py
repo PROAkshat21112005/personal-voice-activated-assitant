@@ -8,7 +8,7 @@ import os
 import random
 
 # Initialize OpenAI API
-openai.api_key = "your-openai-api-key"
+openai.api_key = "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"
 
 # Initialize text-to-speech engine
 def speak(message):
